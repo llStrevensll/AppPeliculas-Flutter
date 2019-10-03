@@ -29,5 +29,25 @@ En esta sección tocaremos temas sobre:
 
 ***App***
 <p align="center">
-  <img src="?raw=true" alt="apppeli1"/>
+  <img src="https://github.com/llStrevensll/AppPeliculas-Flutter/blob/master/images-git/appPeli.PNG?raw=true" alt="apppeli1"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/llStrevensll/AppPeliculas-Flutter/blob/master/images-git/appPeli2.PNG?raw=true" alt="apppeli2"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/llStrevensll/AppPeliculas-Flutter/blob/master/images-git/appPeli3.PNG?raw=true" alt="apppeli4"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/llStrevensll/AppPeliculas-Flutter/blob/master/images-git/appPeli4.PNG?raw=true" alt="apppeli4"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/llStrevensll/AppPeliculas-Flutter/blob/master/images-git/appPeli5.PNG?raw=true" alt="apppeli5"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/llStrevensll/AppPeliculas-Flutter/blob/master/images-git/appPeli6.PNG?raw=true" alt="apppeli6"/>
 </p>
